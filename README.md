@@ -8,4 +8,5 @@
 </a>  
 </div>  
 
-![Карточка статистики](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
+
