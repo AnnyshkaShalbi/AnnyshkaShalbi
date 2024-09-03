@@ -8,5 +8,5 @@
 </a>  
 </div>  
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
+
 
